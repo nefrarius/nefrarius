@@ -14,7 +14,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 logo" />
@@ -28,7 +28,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://youtube.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube link" />
   </a>
@@ -44,8 +44,11 @@
 </div>
 
 ###
-
+<center>
+  
 <img src="https://github.com/nefrarius/nefrarius/blob/main/github-user-contribution.svg" alt="Snake animation" />
+
+</center>
 
 ###
 
