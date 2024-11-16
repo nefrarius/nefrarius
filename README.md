@@ -2,7 +2,7 @@
 
 I'm an ASIR student from Spain, navigating the exciting world of technology and programming. Currently, I’m honing my skills in **HTML**, **CSS**, and **Python**, while also exploring networks and databases. My projects are primarily focused on ethical and personal use, and I’m passionate about learning and growing in this field.
 
-![Welcome Image]([https://via.placeholder.com/800x200.png?text=Welcome+to+My+GitHub](https://media.tenor.com/trwMzHIDQlQAAAAi/hack-hacking.gif)) <!-- Replace with your own image link -->
+![Welcome Image](https://tenor.com/view/hack-hacking-hacker-hackerman-programmer-gif-13167413482750165588) <!-- Replace with your own image link -->
 
 ## 🚀 About Me
 
@@ -26,10 +26,21 @@ Here are a few of my projects that I’m proud of:
 - **[Project Name 1](link-to-your-project)**: A brief description of what this project does and its purpose.
   ![Project 1 Screenshot](https://via.placeholder.com/400x200.png?text=Project+1) <!-- Replace with your own image link -->
   
+- **[Project Name 2](link-to-your-project)**: A brief description of what this project does and its purpose.
+  ![Project 2 Screenshot](https://via.placeholder.com/400x200.png?text=Project+2) <!-- Replace with your own image link -->
+  
+- **[Project Name 3](link-to-your-project)**: A brief description of what this project does and its purpose.
+  ![Project 3 Screenshot](https://via.placeholder.com/400x200.png?text=Project+3) <!-- Replace with your own image link -->
+
+*(Replace the placeholders with your actual project names, descriptions, and links.)*
 
 ## 📫 Get in Touch
 
-Currently since I'm new here, there isn't going to be any info contact by the momment
+I'm always eager to connect with fellow learners and tech enthusiasts! Feel free to reach out:
+
+- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- **Twitter**: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
 
 ## 🥳 Fun Fact
 
