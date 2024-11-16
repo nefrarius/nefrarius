@@ -45,7 +45,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/nefrarius/nefrarius/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/nefrarius/nefrarius/output/snake.svg](https://platane.me/snk/" alt="Snake animation" />
 
 ###
 
