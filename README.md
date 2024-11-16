@@ -38,12 +38,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/nefrarius/nefrarius/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
 <div align="center">
   <a href="https://open.spotify.com/user/10ex1bladezwu2pz2xvy56tp4">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=10ex1bladezwu2pz2xvy56tp4&count=5" alt="Spotify recently played"  />
