@@ -1,44 +1,49 @@
-# 👋 Hi there, I'm Nefrarius!
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-I'm an ASIR student from Spain, navigating the exciting world of technology and programming. Currently, I’m honing my skills in **HTML**, **CSS**, and **Python**, while also exploring networks and databases. My projects are primarily focused on ethical and personal use, and I’m passionate about learning and growing in this field.
+###
 
-![Welcome GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnc2aHVwcGI1ZG51OG1qZWp3Y2J5dHB6b2ExcjBvdXZmOWJndTZnayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R03zWv5p1oNSQd91EP/giphy.gif) <!-- Replace with your own image link -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-## 🚀 About Me
+###
 
-- 🌱 I’m currently learning **HTML**, **CSS**, and **Python**.
-- 💻 I have a keen interest in **Linux** and various programming languages.
-- 🤖 My personal coach is **ChatGPT**, guiding me through my learning journey.
-- 🎯 I aim to create projects that contribute positively to the community.
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-## 🛠️ Technologies & Tools
+###
 
-![Tech Stack](https://via.placeholder.com/800x100.png?text=Tech+Stack) <!-- Replace with your own image link -->
-- **Languages**: HTML, CSS, Python
-- **Tools**: Git, Linux, VSCode
-- **Databases**: MySQL, SQLite
-- **Networking**: TCP/IP, DNS, DHCP
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
-## 🌟 Projects
+###
 
-Here are a few of my projects that I’m proud of:
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-- **[Project Name 1](link-to-your-project)**: A brief description of what this project does and its purpose.
+###
 
+<br clear="both">
 
-## 📫 Get in Touch
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-I'm always eager to connect with fellow learners and tech enthusiasts! Feel free to reach out:
-
-- **Email**: Not avalible for the momment
-- **LinkedIn**: Not avalible for the momment
-- **Twitter**: Not avalible for the momment
-## 🥳 Fun Fact
-
-I love exploring new technologies and constantly seek out interesting projects. If you have any recommendations or want to collaborate, don’t hesitate to reach out!
-
-![Learning GIF](https://media.giphy.com/media/3o7buirY2pQ9A2Y5sI/giphy.gif) <!-- Replace with your own GIF link -->
-
----
-
-Thanks for stopping by my GitHub profile! Let's learn and grow together in this amazing tech journey! 🚀
+###
