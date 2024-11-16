@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="https://github.com/nefrarius/nefrarius/blob/main/pfp.gif" alt="Animated profile picture" />
+<img align="right" height="200" src="https://github.com/nefrarius/nefrarius/blob/main/pfp.gif" alt="Animated profile picture" />
 
 ###
 
