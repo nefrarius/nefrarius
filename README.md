@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://cdna.artstation.com/p/assets/images/images/044/667/570/original/maddie_creates-pfp.gif?1640784763"  />
+<img align="right" height="150" src="https://cdna.artstation.com/p/assets/images/images/044/667/570/original/maddie_creates-pfp.gif?1640784763"/>
 
 ###
 
