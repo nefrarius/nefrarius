@@ -2,7 +2,7 @@
 
 I'm an ASIR student from Spain, navigating the exciting world of technology and programming. Currently, I’m honing my skills in **HTML**, **CSS**, and **Python**, while also exploring networks and databases. My projects are primarily focused on ethical and personal use, and I’m passionate about learning and growing in this field.
 
-![Welcome Image](https://via.placeholder.com/800x200.png?text=Welcome+to+My+GitHub) <!-- Replace with your own image link -->
+![Welcome Image]([https://via.placeholder.com/800x200.png?text=Welcome+to+My+GitHub](https://media.tenor.com/trwMzHIDQlQAAAAi/hack-hacking.gif)) <!-- Replace with your own image link -->
 
 ## 🚀 About Me
 
